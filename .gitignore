@@ -1,0 +1,10 @@
+/one.html/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+/temp/
+
+# Ignore configuration files with sensitive information
+config.ini
